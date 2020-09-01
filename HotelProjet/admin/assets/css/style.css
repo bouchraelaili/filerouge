@@ -1,0 +1,62 @@
+/*CSS FILE*/
+
+div.login_wrapper{
+	width: 100%;
+	padding: 150px;
+	min-height: 100vh;
+	height: 100%;
+	background: black;
+	
+}
+
+div.register_wrapper{
+	width: 100%;
+	padding: 5px;
+
+	background: #7B5BC3;
+	
+}
+
+div.login_holder {
+	margin: 0 auto;
+	max-width: 530px;
+	height: 70%;
+	background: #fff;
+	border-radius: 16px;
+	padding: 10px 15px;
+	box-shadow: 4px 4px 14px #fff ;
+}
+
+label {
+	color: black;
+	font-size: 14px;
+	font-family: sans-serif;
+	letter-spacing: 1px;
+	font-weight:bold;
+	margin-top: 10px;
+}
+
+.pe-7s-close-circle {
+	color: black;
+	font-size: 24px;
+}
+
+label.file_lbl {
+	color: #00ccff;
+}
+
+#inputA{
+	width: 78%;
+	height: 20px;
+	margin-bottom:2%;
+	margin-top: 6%;
+	border-top-style: hidden;
+	border-left-style: hidden;
+	border-right-style: hidden;
+	border-bottom-style:groove;
+	border-color:#dcdde1;
+	font-size: 16px;
+	outline: none;
+	margin-left: 6%;
+   
+}
